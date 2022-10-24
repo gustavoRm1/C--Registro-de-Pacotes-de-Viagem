@@ -1,0 +1,50 @@
+@model PacoteM;
+
+@{
+    ViewData["Title"] = "Edicao de Pacotes";
+}
+
+
+<div class="text-center">
+<h1>Edição de Pacotes!</h1>
+</div>
+
+<form asp-controller="Pacotes" asp-action="Editar"  method="POST">
+<input type="hidden" asp-for="id">
+<div class="mb-3">
+<label>ORIGEM</label>
+<input asp-for="origem" class="form-control" type="text" placeholder="Insira a origem da viagem!" >
+</div>
+
+<div class="mb-3">
+<label>DESTINO</label>
+<input asp-for="destino" class="form-control" type="text" placeholder="Insira o Destino da viagem!" >
+</div>
+
+<div class="mb-3">
+  <label>MÊS</label>
+  <input asp-for="mes"  class="form-control" type="text" placeholder="Insira o Mês da viagem!">
+</div>
+
+<div class="mb-3">
+  <label>IDA</label>
+  <input asp-for="ida" class="form-control" type="text" placeholder="Insira a Ida da viagem!">
+</div>
+<div class="mb-3">
+  <label>VOLTA</label>
+  <input asp-for="volta" class="form-control" type="text" placeholder="Insira a Volta da viagem!">
+</div>
+<div class="mb-3">
+  <label>PREÇO</label>
+  <input asp-for="preco" class="form-control" type="text" placeholder="Insira o Preços da viagem!">
+</div>
+
+ <div class="col-auto">
+    <input type="submit" value="Salvar" class="btn btn-success btn-block"></input>
+    <br>
+    <p>@ViewBag.Mensagem</p>
+    <button class="btn btn-secondary btn-block" asp-controller="Pacotes" asp-action="PacotesL">Voltar</button>
+  </div>
+</form>
+
+

@@ -1,0 +1,44 @@
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\sistema de login.exe
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\sistema de login.deps.json
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\sistema de login.runtimeconfig.json
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\sistema de login.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\sistema de login.dll
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\sistema de login.pdb
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\sistema de login.Views.dll
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\sistema de login.Views.pdb
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.RazorAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.RazorAssemblyInfo.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.TagHelpers.input.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.TagHelpers.output.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.RazorCoreGenerate.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.RazorTargetAssemblyInfo.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.Views.pdb
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\staticwebassets\sistema de login.StaticWebAssets.Manifest.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\staticwebassets\sistema de login.StaticWebAssets.xml
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.dll
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.pdb
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\sistema de login.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Gustavo\Desktop\sistema de login\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Cadastro.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\PacotesL.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Editar.cshtml.g.cs
+C:\Users\Gustavo\Desktop\sistema de login\obj\Debug\netcoreapp3.1\Razor\Views\Home\AcessoNegado.cshtml.g.cs

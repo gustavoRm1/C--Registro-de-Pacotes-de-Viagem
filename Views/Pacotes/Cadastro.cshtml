@@ -1,0 +1,49 @@
+@model PacoteM;
+
+@{
+    ViewData["Title"] = "Registrar Pacotes";
+}
+
+
+<div class="text-center">
+<h1>@ViewData["Title"]</h1>
+</div>
+
+<form asp-controller="Pacotes" asp-action="Cadastro"  method="POST">
+<div class="mb-3">
+<label>ORIGEM</label>
+<input asp-for="origem" class="form-control" type="text" placeholder="Insira a origem da viagem!" >
+</div>
+
+<div class="mb-3">
+<label>DESTINO</label>
+<input asp-for="destino" class="form-control" type="text" placeholder="Insira o Destino da viagem!" >
+</div>
+
+<div class="mb-3">
+  <label>MÊS</label>
+  <input asp-for="mes"  class="form-control" type="text" placeholder="Insira o Mês da viagem!">
+</div>
+
+<div class="mb-3">
+  <label>IDA</label>
+  <input asp-for="ida" class="form-control" type="text" placeholder="Insira a Ida da viagem!">
+</div>
+<div class="mb-3">
+  <label>VOLTA</label>
+  <input asp-for="volta" class="form-control" type="text" placeholder="Insira a Volta da viagem!">
+</div>
+<div class="mb-3">
+  <label>PREÇO</label>
+  <input asp-for="preco" class="form-control" type="text" placeholder="Insira o Preços da viagem!">
+</div>
+
+ <div class="col-auto">
+    <button type="submit" class="btn btn-success btn-block">Adicionar</button>
+    <br>
+    <p>@ViewBag.Mensagem</p>
+    <button class="btn btn-secondary btn-block" asp-controller="Pacotes" asp-action="PacotesL">Voltar</button>
+  </div>
+</form>
+
+
